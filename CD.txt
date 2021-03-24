@@ -1,0 +1,15 @@
+
+Windows                     Linux
+
+Right Click- > paste        cp a b
+Right Click- > compress     tar  -z a
+Right Click- > rename       mv a b
+Right Click- > delete       rm a
+Right Click- > cut          mv a ..
+Right Click- > detail       stata a
+search                      find
+power off                   shutdown
+restart                     reboot
+
+
+
