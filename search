@@ -1,0 +1,9 @@
+import re
+res = re.search("python","I like python!")
+print(res)
+
+ret = re.match( "长征\d号" , "长征5号发射成功" )
+print(ret)
+
+rea = re.match( "长征\d号" , "恭喜长征5号发射成功！" )
+print(rea)
